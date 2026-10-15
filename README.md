@@ -3,7 +3,7 @@
 A classic Tic-Tac-Toe game — Two Players and Vs. Computer modes, with an unbeatable AI opponent.
 
 **Live:** https://tic-tac-toe-eight-rho-82.vercel.app
-**GitHub:** https://github.com/8fn4wf8phr-ops/TIC_TAC_TOE
+**GitHub:** https://github.com/jacquezmonroe/TIC_TAC_TOE
 
 ## Features
 
@@ -43,7 +43,7 @@ TIC_TAC_TOE/
 
 ## Related Projects
 
-- [Tic-Tac-Toe (React)](https://github.com/8fn4wf8phr-ops/tic-tac-toe-react) — a fuller rebuild of this game with sound, confetti, difficulty levels, and keyboard controls — [live demo](https://tic-tac-toe-react-sand-ten.vercel.app/)
-- [Calculator](https://github.com/8fn4wf8phr-ops/calculator-app) — [live demo](https://calculator-app-three-sand.vercel.app/)
-- [Weather App](https://github.com/8fn4wf8phr-ops/weather-app) — [live demo](https://weather-app-orcin-one.vercel.app/)
-- [Portfolio site](https://github.com/8fn4wf8phr-ops/my-website) — [live site](https://my-website-murex-six-54.vercel.app/)
+- [Tic-Tac-Toe (React)](https://github.com/jacquezmonroe/tic-tac-toe-react) — a fuller rebuild of this game with sound, confetti, difficulty levels, and keyboard controls — [live demo](https://tic-tac-toe-react-sand-ten.vercel.app/)
+- [Calculator](https://github.com/jacquezmonroe/calculator-app) — [live demo](https://calculator-app-three-sand.vercel.app/)
+- [Weather App](https://github.com/jacquezmonroe/weather-app) — [live demo](https://weather-app-orcin-one.vercel.app/)
+- [Portfolio site](https://github.com/jacquezmonroe/my-website) — [live site](https://my-website-murex-six-54.vercel.app/)

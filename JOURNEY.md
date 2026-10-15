@@ -16,7 +16,7 @@ Pushed to GitHub and deployed on Vercel using the same "Other" framework preset 
 
 ## What's next
 
-This one's intentionally simple — the more feature-rich rebuild lives in the [React version](https://github.com/8fn4wf8phr-ops/tic-tac-toe-react). If it grows further, a few ideas:
+This one's intentionally simple — the more feature-rich rebuild lives in the [React version](https://github.com/jacquezmonroe/tic-tac-toe-react). If it grows further, a few ideas:
 
 - Sound effects, matching the React version
 - A "how it works" note explaining the minimax algorithm
